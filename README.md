@@ -8,6 +8,6 @@
 annisa-maharani/annisa-maharani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Google i/o	: https://gdg.community.dev/u/my7b6q/#/about
-Github		: https://github.com/annisa-maharani
-TrustPilot	: https://www.trustpilot.com/users/627b1f295d0723001210289b
+- 👋 Google i/o	: https://gdg.community.dev/u/my7b6q/#/about
+- 💞️Github		: https://github.com/annisa-maharani
+- TrustPilot	: https://www.trustpilot.com/users/627b1f295d0723001210289b
